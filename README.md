@@ -1,4 +1,4 @@
-# :crystal_ball: Mine3DCraft Unity - CS427 3D Game Development Project
+# Mine3DCraft Unity - CS427 3D Game Development Project
 
 A comprehensive voxel-based sandbox game built in Unity, featuring infinite procedural world generation, combat system, crafting mechanics, and survival gameplay. This project was developed as part of CS427 - 3D Game Development course.
 
@@ -7,6 +7,8 @@ A comprehensive voxel-based sandbox game built in Unity, featuring infinite proc
 - **22125086** - Ngo Tri Si  
 - **22125074** - Le Du Phu
 - **22125083** - Phan Minh Quang
+
+Demo Video: [Demo](https://drive.google.com/file/d/1K-4qRNrNseYOESxu-jkxZK5YQmvpUw3Q/view?usp=sharing)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74787b46-d43e-4ef5-a0b9-26d5c7cc5194" />
 

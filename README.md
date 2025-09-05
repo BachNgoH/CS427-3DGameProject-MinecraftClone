@@ -25,11 +25,17 @@ A comprehensive voxel-based sandbox game built in Unity, featuring infinite proc
 - **Physics-based knockback** and damage effects
 - **Health system** with healing potions
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5df80f98-0d30-45b1-bedb-f5110764902a" />
+
+
 ### :hammer_and_wrench: Crafting System
 - **Recipe-based crafting** with automatic ingredient detection
 - **Dynamic crafting UI** with real-time inventory scanning
 - **Multiple recipes**: Tools, weapons, building materials, consumables
 - **Auto-generated item thumbnails** and descriptions
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46ac4717-1192-4fa7-9a65-f16236942b0a" />
+
 
 ### :package: Advanced Inventory System
 - **64-slot inventory** (10 hotbar + 54 backpack slots)

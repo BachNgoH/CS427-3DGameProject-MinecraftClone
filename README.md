@@ -1,4 +1,4 @@
-# :crystal_ball: Minecraft4Unity - CS427 3D Game Development Project
+# Mine3DCraft Unity - CS427 3D Game Development Project
 
 A comprehensive voxel-based sandbox game built in Unity, featuring infinite procedural world generation, combat system, crafting mechanics, and survival gameplay. This project was developed as part of CS427 - 3D Game Development course.
 
@@ -8,7 +8,9 @@ A comprehensive voxel-based sandbox game built in Unity, featuring infinite proc
 - **22125074** - Le Du Phu
 - **22125083** - Phan Minh Quang
 
-![minecraft4unity-title](https://github.com/paternostrox/Minecraft4Unity/assets/19597048/40c69361-4ced-4745-8e24-b096923101d0)
+Demo Video: [Demo](https://drive.google.com/file/d/1K-4qRNrNseYOESxu-jkxZK5YQmvpUw3Q/view?usp=sharing)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74787b46-d43e-4ef5-a0b9-26d5c7cc5194" />
 
 ## :sparkles: Features
 
@@ -25,11 +27,17 @@ A comprehensive voxel-based sandbox game built in Unity, featuring infinite proc
 - **Physics-based knockback** and damage effects
 - **Health system** with healing potions
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5df80f98-0d30-45b1-bedb-f5110764902a" />
+
+
 ### :hammer_and_wrench: Crafting System
 - **Recipe-based crafting** with automatic ingredient detection
 - **Dynamic crafting UI** with real-time inventory scanning
 - **Multiple recipes**: Tools, weapons, building materials, consumables
 - **Auto-generated item thumbnails** and descriptions
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46ac4717-1192-4fa7-9a65-f16236942b0a" />
+
 
 ### :package: Advanced Inventory System
 - **64-slot inventory** (10 hotbar + 54 backpack slots)
@@ -103,7 +111,6 @@ Advanced item management with automatic generation and recipe-based crafting:
 - **Real-time Inventory Scanning**: Live ingredient availability checking
 - **Error Handling**: Graceful failure with user feedback
 
-![procgen3](https://github.com/paternostrox/Minecraft4Unity/assets/19597048/918fb99a-21ce-438d-8ec7-507f97e68ad6)
 
 ### Data Persistence & Performance
 Advanced save system with incremental loading and error recovery:
@@ -125,7 +132,7 @@ Advanced save system with incremental loading and error recovery:
 ### Advanced Inventory System
 Enhanced inventory management with automatic item generation and visual feedback:
 
-![inventory2](https://github.com/paternostrox/Minecraft4Unity/assets/19597048/9ec1320f-ea05-4198-b65d-ce23ea2af9c4)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e935eb80-3e3a-4281-8225-7e3377dfed77" />
 
 **Features**:
 - **64 Total Slots**: 10 hotbar slots (H0-H9) + 54 backpack slots (B0-B53)
